@@ -1,0 +1,24 @@
+.items {
+    max-width: 200px;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 5px;
+}
+
+.items .buttonX {
+    background-color: #5f085f;
+    border: 1px solid #3d043d;
+    color: #fff;
+    margin: 0 5px;
+}
+
+.buttons button {
+    background-color: #db68db;
+    border: 1px solid #3d043d;
+    color: #fff;
+    margin: 0 5px;
+}
+
+.buttons button:focus {
+    color: red;
+}

@@ -1,0 +1,28 @@
+.someClass {
+    margin: 0 5px;
+    border: 2px solid #47b6d2;
+    outline: none;
+    background-color: rgba(120, 227, 215, 0.3);
+}
+
+.errorInput {
+    margin: 0 5px;
+    outline: none;
+    border: 2px solid red;
+    background-color: rgba(227, 120, 120, 0.3);
+}
+
+.error {
+    padding: 0 7px;
+    margin: 0 27px;
+    height: 20px;
+    color: red;
+}
+
+.buttonAdd {
+    color: #fff;
+    background-color: #ad1dd5;
+    padding: 1px 10px;
+    border: 2px solid #5f085f;
+    border-radius: 5px;
+}

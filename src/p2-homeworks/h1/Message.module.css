@@ -1,0 +1,44 @@
+.message {
+    display: flex;
+    align-items: flex-end;
+
+    background-color: #7f0b75;
+}
+.avatar {
+    width: 50px;
+    border-radius: 50%;
+    padding: 5px;
+}
+
+.content {
+    margin: 5px 0;
+    padding: 5px 10px;
+    border-radius: 5px 5px 5px 0;
+    background-color: #8f22d4;
+}
+
+.name {
+    min-width: 100%;
+    color: rgba(56, 20, 56, 0.79);
+    font-weight: bold;
+}
+
+.text {
+    font-family: 'Arial';
+    font-size: 15px;
+    color: white;
+}
+
+.time {
+    display: flex;
+    justify-content: flex-end;
+    color: #370344;
+    font-size: 12px;
+}
+
+.angle {
+    width: 15px;
+    height: 15px;
+    margin: 5px 0;
+    background: radial-gradient(circle at 0 0, #7f0b75 15px, #8f22d4 0);
+}
